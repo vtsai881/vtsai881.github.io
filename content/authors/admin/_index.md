@@ -1,90 +1,87 @@
 ---
 # Display name
-title: 吳健雄
+title: Valerie
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Valerie
+last_name: Tsai
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧠
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Neuroscience PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Stanford University
-    url: https://www.stanford.edu/
+    url: https://med.stanford.edu/neurogradprogram.html/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am interested in understanding the circuits and systems that orchestrate social behavior.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Systems Neuroscience
+  - Social Behavior
+  - Machine Learning
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
+    - course: PhD in Neuroscience
       institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2024-Present
+    - course: BS in Neuroscience
+      institution: University of Washington
+      year: 2018-2022
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
   - name: Technical
     items:
+      - name: Behavior
+        description: ''
+        percent: 100
+        icon: mouse
+        icon_pack: custom
+      - name: Patch-Clamp
+        description: ''
+        percent: 65
+        icon: brain
+        icon_pack: ''
       - name: Python
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: Writing
         description: ''
         percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
+        icon: pencil
+        icon_pack: custom
+      - name: Reading
         description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
+        percent: 95
+        icon: Book
+        icon_pack: custom
+      - name: Animals
+        description: ''
+        percent: 90
+        icon: cat
+        icon_pack: custom
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -96,19 +93,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/val_tsais
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=72-Br0AAAAAJ&hl=en&authuser=2
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/vtsai881
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/valerie-tsai/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -120,5 +117,9 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi I'm Valerie! I am an incoming Neuroscience PhD Student at Stanford University. I am interested in using computational modeling and closed-loop optogenetics to understand how social behaviors are structured and orchestrated by genes, neural circuits, modulatory systems, sensory cues, and motor sequences.
+
+I did my undergrad at the University of Washington, where I earned a BS in Neuroscience and a Minor in English. I conducted an honors thesis with Dr. Sam Golden where I used deep and machine learning to quantitatively phenotype the behavioral sequences and whole-brain cfos ensembles underlying maladaptive aggression. 
+
+After graduating in 2022, I worked at the National Institute of Mental Health as an IRTA Post-Baccalaureate Research Fellow in the Unit on Neuromodulation and Synaptic Integration, where I learned to use patch clamp electrophysiology and one- and two-photon microscopy to investigate the impact of endogenous opioid signaling on PFC microcircuitry and motivated behavior. 
 {style="text-align: justify;"}
