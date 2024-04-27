@@ -65,7 +65,7 @@ sections:
         - title: PhD Student
           company: Stanford University
           company_url: ''
-          company_logo: org-gc
+          company_logo: stanford
           location: California
           date_start: '2024-09-23'
           date_end: ''
@@ -73,7 +73,7 @@ sections:
         - title: IRTA Post-Baccalaureate Research Fellow
           company: Unit on Neuromodulation and Synaptic Integration, NIMH
           company_url: ''
-          company_logo: 
+          company_logo: nih
           location: Maryland
           date_start: '2022-08-15'
           date_end: '2024-08-15'
@@ -81,7 +81,7 @@ sections:
         - title: Undergraduate Researcher
           company: Golden Lab, UW
           company_url: ''
-          company_logo: 
+          company_logo: uw
           location: Washington
           date_start: '2020-09-01'
           date_end: '2022-08-01'
@@ -89,7 +89,7 @@ sections:
         - title: Undergraduate Research Assistant
           company: Perlmutter Lab, UW
           company_url: ''
-          company_logo: 
+          company_logo: uw
           location: Washington
           date_start: '2019-07-01'
           date_end: '2021-05-01'
@@ -99,7 +99,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: Awards
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -192,14 +192,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
   - block: collection
     id: featured
     content:
@@ -235,60 +227,21 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Popular Topics
-    design:
-      columns: '2'
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+      text: ''
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'  
+      email: vsctsai@stanford.edu
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
+          name: '@val_tsais'
           link: 'https://twitter.com/Twitter'
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
