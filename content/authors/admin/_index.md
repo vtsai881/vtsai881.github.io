@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Valerie
+title: Valerie Tsai
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -51,8 +51,8 @@ skills:
       - name: Behavior
         description: ''
         percent: 100
-        icon: mouse
-        icon_pack: custom
+        icon: mouse2
+        icon_pack: ''
       - name: Patch-Clamp
         description: ''
         percent: 65
@@ -70,18 +70,18 @@ skills:
       - name: Writing
         description: ''
         percent: 100
-        icon: pencil
-        icon_pack: custom
+        icon: writing_hand
+        icon_pack: ''
       - name: Reading
         description: ''
         percent: 95
-        icon: Book
-        icon_pack: custom
+        icon: books
+        icon_pack: ''
       - name: Animals
         description: ''
         percent: 90
         icon: cat
-        icon_pack: custom
+        icon_pack: ''
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -90,13 +90,10 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'vsctsai@stanford.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/val_tsais
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=72-Br0AAAAAJ&hl=en&authuser=2
@@ -117,7 +114,7 @@ social:
 highlight_name: true
 ---
 
-Hi I'm Valerie! I am an incoming Neuroscience PhD Student at Stanford University. I am interested in using computational modeling and closed-loop optogenetics to understand how social behaviors are structured and orchestrated by genes, neural circuits, modulatory systems, sensory cues, and motor sequences.
+Hi, I'm Valerie! I am an incoming Neuroscience PhD Student at Stanford University interested in using computational modeling and closed-loop optogenetics to understand how social behaviors are structured and orchestrated by genes, neural circuits, modulatory systems, sensory cues, and motor sequences.
 
 I did my undergrad at the University of Washington, where I earned a BS in Neuroscience and a Minor in English. I conducted an honors thesis with Dr. Sam Golden where I used deep and machine learning to quantitatively phenotype the behavioral sequences and whole-brain cfos ensembles underlying maladaptive aggression. 
 

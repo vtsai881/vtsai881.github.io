@@ -65,7 +65,7 @@ sections:
         - title: PhD Student
           company: Stanford University
           company_url: ''
-          company_logo: Stanford
+          company_logo: stanford
           location: California
           date_start: '2024-09-23'
           date_end: ''
@@ -73,7 +73,7 @@ sections:
         - title: IRTA Post-Baccalaureate Research Fellow
           company: Unit on Neuromodulation and Synaptic Integration, NIMH
           company_url: ''
-          company_logo: NIH
+          company_logo: nih
           location: Maryland
           date_start: '2022-08-15'
           date_end: '2024-08-15'
@@ -81,7 +81,7 @@ sections:
         - title: Undergraduate Researcher
           company: Golden Lab, UW
           company_url: ''
-          company_logo: UW
+          company_logo: uw
           location: Washington
           date_start: '2020-09-01'
           date_end: '2022-08-01'
@@ -89,7 +89,7 @@ sections:
         - title: Undergraduate Research Assistant
           company: Perlmutter Lab, UW
           company_url: ''
-          company_logo: UW
+          company_logo: uw
           location: Washington
           date_start: '2019-07-01'
           date_end: '2021-05-01'
@@ -113,28 +113,28 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          icon: 
-          organization: National Science Foundation
+          icon: coursera
+          organization: Coursera
           organization_url: https://www.coursera.org
-          title: National Science Foundation (NSF) Graduate Research Fellowship
+          title: Neural Networks and Deep Learning
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
-          description: ''
-          icon: 
-          organization: Undergraduate Research Program, UW
+          description: Formulated informed blockchain models, hypotheses, and use cases.
+          icon: edx
+          organization: edX
           organization_url: https://www.edx.org
-          title: Levinson Emerging Scholars Award
-          url: ''
+          title: Blockchain Fundamentals
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          icon: 
-          organization: NAPE Center, UW
+          icon: datacamp
+          organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: NAPE Undergraduate Research Award
+          title: 'Object-Oriented Programming in R'
           url: ''
     design:
       columns: '2'
@@ -234,7 +234,7 @@ sections:
       subtitle:
       text: ''
       # Contact (add or remove contact options as necessary)
-      email: vsctsai@stanford.edu  
+      email: vsctsai@stanford.edu
       contact_links:
         - icon: twitter
           icon_pack: fab
