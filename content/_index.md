@@ -65,7 +65,7 @@ sections:
         - title: PhD Student
           company: Stanford University
           company_url: ''
-          company_logo: Stanford
+          company_logo: org-gc
           location: California
           date_start: '2024-09-23'
           date_end: ''
@@ -73,7 +73,7 @@ sections:
         - title: IRTA Post-Baccalaureate Research Fellow
           company: Unit on Neuromodulation and Synaptic Integration, NIMH
           company_url: ''
-          company_logo: NIH
+          company_logo: 
           location: Maryland
           date_start: '2022-08-15'
           date_end: '2024-08-15'
@@ -81,7 +81,7 @@ sections:
         - title: Undergraduate Researcher
           company: Golden Lab, UW
           company_url: ''
-          company_logo: UW
+          company_logo: 
           location: Washington
           date_start: '2020-09-01'
           date_end: '2022-08-01'
@@ -89,7 +89,7 @@ sections:
         - title: Undergraduate Research Assistant
           company: Perlmutter Lab, UW
           company_url: ''
-          company_logo: UW
+          company_logo: 
           location: Washington
           date_start: '2019-07-01'
           date_end: '2021-05-01'
@@ -99,7 +99,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: Awards
+      title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -113,28 +113,28 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          icon: 
-          organization: National Science Foundation
+          icon: coursera
+          organization: Coursera
           organization_url: https://www.coursera.org
-          title: National Science Foundation (NSF) Graduate Research Fellowship
+          title: Neural Networks and Deep Learning
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
           date_start: '2021-01-01'
-          description: ''
-          icon: 
-          organization: Undergraduate Research Program, UW
+          description: Formulated informed blockchain models, hypotheses, and use cases.
+          icon: edx
+          organization: edX
           organization_url: https://www.edx.org
-          title: Levinson Emerging Scholars Award
-          url: ''
+          title: Blockchain Fundamentals
+          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
           description: ''
-          icon: 
-          organization: NAPE Center, UW
+          icon: datacamp
+          organization: DataCamp
           organization_url: https://www.datacamp.com
-          title: NAPE Undergraduate Research Award
+          title: 'Object-Oriented Programming in R'
           url: ''
     design:
       columns: '2'
@@ -192,6 +192,14 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: markdown
+    content:
+      title: Gallery
+      subtitle: ''
+      text: |-
+        {{< gallery album="demo" >}}
+    design:
+      columns: '1'
   - block: collection
     id: featured
     content:
@@ -227,21 +235,60 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: tag_cloud
+    content:
+      title: Popular Topics
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
       title: Contact
       subtitle:
-      text: ''
+      text: |-
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: vsctsai@stanford.edu  
+      email: test@example.org
+      phone: 888 888 88 88
+      appointment_url: 'https://calendly.com'
+      address:
+        street: 450 Serra Mall
+        city: Stanford
+        region: CA
+        postcode: '94305'
+        country: United States
+        country_code: US
+      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      office_hours:
+        - 'Monday 10:00 to 13:00'
+        - 'Wednesday 09:00 to 10:00'
+      # Choose a map provider in `params.yaml` to show a map from these coordinates
+      coordinates:
+        latitude: '37.4275'
+        longitude: '-122.1697'  
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: '@val_tsais'
+          name: DM Me
           link: 'https://twitter.com/Twitter'
+        - icon: skype
+          icon_pack: fab
+          name: Skype Me
+          link: 'skype:echo123?call'
+        - icon: video
+          icon_pack: fas
+          name: Zoom Me
+          link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false
     design:
       columns: '2'
 ---
