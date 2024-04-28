@@ -1,6 +1,6 @@
 ---
 title: To See or Not To See
-date: '2020-03-05'
+date: '2019-12-05'
 summary: |-2
     Looking closely at the rare phenomenon of blindsight, a condition in which blind patients can reportedly sense and respond to visual stimuli.
 ---

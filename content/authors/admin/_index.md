@@ -52,7 +52,7 @@ skills:
         description: ''
         percent: 100
         icon: mouse2
-        icon_pack: ''
+        icon_pack: emoji
       - name: Patch-Clamp
         description: ''
         percent: 65
@@ -71,12 +71,12 @@ skills:
         description: ''
         percent: 100
         icon: writing_hand
-        icon_pack: ''
+        icon_pack: emoji
       - name: Reading
         description: ''
         percent: 95
         icon: books
-        icon_pack: ''
+        icon_pack: emoji
       - name: Animals
         description: ''
         percent: 90
