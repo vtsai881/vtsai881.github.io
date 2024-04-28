@@ -5,10 +5,10 @@ summary: An overview of the gut microbiota and its relationship with the brain.
 ---
 
 {{% callout note %}}
-Article originally published in [Issue 17 of Grey Matters Journal](https://greymattersjournal.org/a-gut-feeling/).
+Article originally published in ![Issue 17 of Grey Matters Journal](https://greymattersjournal.org/a-gut-feeling/).
 {{% /callout %}}
 
-*Art by [Nina Chen](https://greymattersjournal.org/author/nina/).*
+*Art by ![Nina Chen](https://greymattersjournal.org/author/nina/).*
 
 ![png](1.png)
 
@@ -58,17 +58,17 @@ It’s also important to keep in mind that the composition of a person’s micro
 
 However, that’s not to say that research on the human microbiota shouldn’t be conducted. Researchers and volunteers should keep in mind the many ethical implications of the studies they are taking part in. Even so, we’ve already seen an overwhelming amount of positive results so far showing how it’s possible to reduce stress-related behaviors just by slightly altering an animal’s microbiota. These results seem to indicate more steps towards a more effective therapy for psychological disorders than towards a loss of privacy and security around our gut feelings.
 
-### **Check out the rest of Issue 17 of Grey Matters Journal [here](https://greymattersjournal.org/tag/issue-17/)!**
+### **Check out the rest of Issue 17 of Grey Matters Journal ![here](https://greymattersjournal.org/tag/issue-17/)!**
 
-[^1]: American Society for Microbiology. (2014) [https://www.asm.org/](https://www.asm.org/)
+[^1]: American Society for Microbiology. (2014) ![https://www.asm.org/](https://www.asm.org/)
 [^2]: Pasricha, Pankaj [Stanford Health Care]. (2011, March 2). Stanford Hospital’s Pankaj Pasricha discusses the Enteric Nervous
-    System, or brain in your gut [Video File]. [https://www.youtube.com/watch?v=UXx4WTVU34Y](https://www.youtube.com/watch?v=UXx4WTVU34Y)
+    System, or brain in your gut [Video File]. ![https://www.youtube.com/watch?v=UXx4WTVU34Y](https://www.youtube.com/watch?v=UXx4WTVU34Y)
 [^3]: Sudo N, Chida Y, Aiba Y, Sonoda J, Oyama N, Yu XN, Kubo C, Koga Yasuhiro. (2004). Postnatal microbial colonization programs
     the hypothalamic-pituitary-adrenal system for stress response in mice. Journal of Physiology, 558, 263-275. doi: 10.1113/jphysiol.2004.063388
 [^4]: Desbonnet L, Clarke G, O’Sullivan O, Cotter P, Dinan T, Cryan J. (2015) Gut microbiota depletion from early adolescence in 
     mice: implications for brain and behavior. Brain Behavior and Immunology, 48, 165-173. doi: 10.1016/j.bbi.2015.04.004
 [^5]: Major Depression. National Institute of Mental Health (2019). 
-    [https://www.nimh.nih.gov/health/statistics/major-depression.shtml](https://www.nimh.nih.gov/health/statistics/major-depression.shtml)
+    ![https://www.nimh.nih.gov/health/statistics/major-depression.shtml](https://www.nimh.nih.gov/health/statistics/major-depression.shtml)
 [^6]: Johnson SB, Blum RW, Giedd JN. (2009). Adolescent Maturity and the Brain: The Promise and Pitfalls of Neuroscience Research
      in Adolescent Health Policy. Journal of Adolescent Health , 45(3): 216–221. doi: 10.1016/j.jadohealth.2009.05.016
 [^7]: Kelly JR, Borre Y, Aidy S, Deane J, Patterson E, Kennedy PJ, Beers S, Scott K, Moloney G, Scott L, Ross P, Stanton C, 
