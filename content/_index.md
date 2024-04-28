@@ -275,7 +275,7 @@ sections:
       title: Contact
       subtitle:
       text: |-2
-      Send me a message! Always happy to talk science, writing, behavioral analysis tools, and potential opportunities or collaborations.
+        Send me a message! Always happy to talk science, writing, behavioral analysis tools, and potential opportunities or collaborations.
       # Contact (add or remove contact options as necessary)
       email: vsctsai@stanford.edu
       contact_links:
