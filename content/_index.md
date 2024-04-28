@@ -141,7 +141,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-4-24'
+          date_start: '2023-04-24'
           description: Awarded to presenters who scored in the top 20% of all posters presented at the NIH Post-Baccalaureate Poster Day.
           icon: ''
           organization: National Institutes of Health
