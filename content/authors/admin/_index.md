@@ -52,7 +52,7 @@ skills:
         description: ''
         percent: 100
         icon: rat
-        icon_pack: ''
+        icon_pack: custom
       - name: Patch-Clamp
         description: ''
         percent: 65
@@ -71,12 +71,12 @@ skills:
         description: ''
         percent: 100
         icon: writing
-        icon_pack: ''
+        icon_pack: custom
       - name: Reading
         description: ''
         percent: 95
         icon: reading
-        icon_pack: ''
+        icon_pack: custom
       - name: Animals
         description: ''
         percent: 90
@@ -90,13 +90,10 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'vsctsai@stanford.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/val_tsais
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=72-Br0AAAAAJ&hl=en&authuser=2
@@ -117,7 +114,7 @@ social:
 highlight_name: true
 ---
 
-Hi, I'm Valerie! I am an incoming Neuroscience PhD Student at Stanford University. I am interested in using computational modeling and closed-loop optogenetics to understand how social behaviors are structured and orchestrated by genes, neural circuits, modulatory systems, sensory cues, and motor sequences.
+Hi, I'm Valerie! I am an incoming Neuroscience PhD Student at Stanford University interested in using computational modeling and closed-loop optogenetics to understand how social behaviors are structured and orchestrated by genes, neural circuits, modulatory systems, sensory cues, and motor sequences.
 
 I did my undergrad at the University of Washington, where I earned a BS in Neuroscience and a Minor in English. I conducted an honors thesis with Dr. Sam Golden where I used deep and machine learning to quantitatively phenotype the behavioral sequences and whole-brain cfos ensembles underlying maladaptive aggression. 
 
