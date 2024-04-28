@@ -19,7 +19,7 @@ publishDate: '2024-04-27T22:29:12.848403Z'
 publication_types:
 - article-journal
 publication: '*Biological Psychiatry*'
-doi: 10.1016/j.biopsych.2024.01.007
+doi: ""
 abstract: 'Background A key challenge in developing treatments for neuropsychiatric
   illness is the disconnect between preclinical models and the complexity of human
   social behavior. We integrate voluntary social self-administration into a rodent
