@@ -121,7 +121,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2024-4-24'
+          date_start: '2024-04-24'
           description: |-2
             Awarded to URM graduate students, postdocs, faculty and scientists to receive funding assistance to attend their first GRC.
           icon: ''
@@ -131,7 +131,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-8-24'
+          date_start: '2023-08-24'
           description: |-2
             Awarded to high-achieving trainees of all levels to encourage them to share their research and accomplishments by giving presentations at scientific conferences. 
           icon: ''
