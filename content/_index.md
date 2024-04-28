@@ -89,7 +89,7 @@ sections:
           date_end: '2022-08-01'
           description: |-2
             Worked on computational analyses of complex behavior in mice (aggression, social interaction, food-seeking) using deep- and machine-learning based methods for pose estimation and behavioral quantification. Developed computational pipelines using unsupervised machine learning dimensionality reduction and clustering methods for visualizing and interpreting whole-brain fos cellular activation data.
-           **Advisor: Sam Golden**
+            **Advisor: Sam Golden**
         - title: Undergraduate Research Assistant
           company: Perlmutter Lab, University of Washington
           company_url: ''
