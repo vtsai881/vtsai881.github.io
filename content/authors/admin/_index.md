@@ -56,8 +56,8 @@ skills:
       - name: Patch-Clamp
         description: ''
         percent: 65
-        icon: brain
-        icon_pack: ''
+        icon: 🧠
+        icon_pack: emoji
       - name: Python
         description: ''
         percent: 80
@@ -81,7 +81,7 @@ skills:
         description: ''
         percent: 90
         icon: 🌄
-        icon_pack: ''
+        icon_pack: emoji
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -115,8 +115,10 @@ highlight_name: true
 ---
 
 Hi, I'm Valerie! I am an incoming Neuroscience PhD Student at Stanford University interested in using computational modeling and closed-loop optogenetics to understand how social behaviors are structured and orchestrated by genes, neural circuits, modulatory systems, sensory cues, and motor sequences.
+{style="text-align: justify;"}
 
 I did my undergrad at the University of Washington, where I earned a Neuroscience BS and an English Minor. I conducted an honors thesis with Dr. Sam Golden where I used deep and machine learning to quantitatively phenotype the behavioral sequences and whole-brain cfos ensembles underlying maladaptive aggression. I also wrote for and was Editor-in-Chief of [Grey Matters Journal](https://greymattersjournal.org/), a neuroscience outreach organization founded and run by UW undergraduates aimed at fostering scientific engagement through community outreach, diversity and inclusivity initiatives, and effective scientific communication.
+{style="text-align: justify;"}
 
 After graduating in 2022, I worked at the National Institute of Mental Health as an IRTA Post-Baccalaureate Research Fellow in the Unit on Neuromodulation and Synaptic Integration, where I learned to use patch clamp electrophysiology and one- and two-photon microscopy to investigate the impact of endogenous opioid signaling on PFC microcircuitry and motivated behavior. 
 {style="text-align: justify;"}

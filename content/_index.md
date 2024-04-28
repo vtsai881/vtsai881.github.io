@@ -139,6 +139,17 @@ sections:
     design:
       columns: '2'
   - block: collection
+    id: featured
+    content:
+      title: Featured Post
+      filters:
+        folders:
+          - post
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
     id: posts
     content:
       title: Recent Posts

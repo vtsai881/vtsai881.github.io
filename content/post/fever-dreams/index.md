@@ -4,7 +4,7 @@ date: '2021-06-05'
 summary: A foray into the research exploring the strange dreams people experienced during the initial wave of COVID-19.
 ---
 
-{{% callout note %}}
+{{% callout warning %}}
 Article originally published in [Issue 23 of Grey Matters Journal](https://greymattersjournal.org/pandemic-dreams/). Cited studies come from literature searches done in 2021, and may not be reflective of the most recent and up-to-date COVID-19 research.
 {{% /callout %}}
 

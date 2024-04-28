@@ -5,7 +5,7 @@ summary: |-2
     An overview of the primary literature concerning the SARS-CoV-2 virus' short- and long-term effects on the brain and nervous system.
 ---
 
-{{% callout note %}}
+{{% callout warning %}}
 Article originally published in [Issue 20 of Grey Matters Journal](https://greymattersjournal.org/covid-on-the-brain/). Cited studies come from literature searches done in January 2021, and may not be reflective of the most recent and up-to-date COVID-19 research.
 {{% /callout %}}
 
