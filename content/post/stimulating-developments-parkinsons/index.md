@@ -5,7 +5,7 @@ summary: A stimulating exploration of an electrifying new treatment for Parkinso
 ---
 
 {{% callout note %}}
-    Article originally published in [Issue 18 of Grey Matters Journal](https://greymattersjournal.org/stimulating-developments-in-parkinsons-treatment/).
+Article originally published in [Issue 18 of Grey Matters Journal](https://greymattersjournal.org/stimulating-developments-in-parkinsons-treatment/).
 {{% /callout %}}
 
 *Art by [Angelique Guina](https://greymattersjournal.org/author/angelique/).*
@@ -37,9 +37,6 @@ Even with these drawbacks, you find though your other motor symptoms have remain
 Though deep brain stimulation is not intended to cure Parkinson’s, by learning more about how the stimulation functions, we can further refine the process,and gain insight into the pathology of Parkinson’s. If we can better understand how stimulation relieves symptoms on a systems level, we can understand how Parkinson’s creates these symptoms to begin with on a large scale. This way, research focused both on improving the precision of deep brain stimulation treatments and research into cures for Parkinson’s disease and other movement-based disorders can be conducted simultaneously. In fact, as technology progresses and researchers discover new groundbreaking treatments for Parkinson’s and other movement-related diseases, the need for deep brain stimulation will likely decline. This, of course, isn’t to say that deep brain stimulation doesn’t already have a great positive impact on the lives of Parkinson’s patients– it does, making life more livable and enjoyable for many Parkinson’s patients, allowing them to do simple, everyday tasks – from signing their name, shaving, carrying things around, and much more. Even if deep brain stimulation isn’t a lightning bolt cure to Parkinson’s, it’s still a stimulating development in the field of neuroscience that’s shockingly improved the quality of many Parkinson’s patients’ lives.
 
 ### **Check out the rest of Issue 18 of Grey Matters Journal [here](https://greymattersjournal.org/tag/issue-18/)!**
-
-
-## References
 
 [^1]: Parkinson’s Disease (2017, May 16). National Institute on Aging.
     [https://www.nia.nih.gov/health/parkinsons-disease](https://www.nia.nih.gov/health/parkinsons-disease).

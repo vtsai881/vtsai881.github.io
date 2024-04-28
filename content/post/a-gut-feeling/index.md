@@ -60,9 +60,6 @@ However, that’s not to say that research on the human microbiota shouldn’t b
 
 ### **Check out the rest of Issue 17 of Grey Matters Journal [here](https://greymattersjournal.org/tag/issue-17/)!**
 
-
-## References
-
 [^1]: American Society for Microbiology. (2014) [https://www.asm.org/](https://www.asm.org/)
 [^2]: Pasricha, Pankaj [Stanford Health Care]. (2011, March 2). Stanford Hospital’s Pankaj Pasricha discusses the Enteric Nervous
     System, or brain in your gut [Video File]. [https://www.youtube.com/watch?v=UXx4WTVU34Y](https://www.youtube.com/watch?v=UXx4WTVU34Y)
