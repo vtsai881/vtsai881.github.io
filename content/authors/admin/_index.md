@@ -51,8 +51,8 @@ skills:
       - name: Behavior
         description: ''
         percent: 100
-        icon: rat
-        icon_pack: custom
+        icon: mouse2
+        icon_pack: ''
       - name: Patch-Clamp
         description: ''
         percent: 65
@@ -70,13 +70,13 @@ skills:
       - name: Writing
         description: ''
         percent: 100
-        icon: writing
-        icon_pack: custom
+        icon: writing_hand
+        icon_pack: ''
       - name: Reading
         description: ''
         percent: 95
-        icon: reading
-        icon_pack: custom
+        icon: books
+        icon_pack: ''
       - name: Animals
         description: ''
         percent: 90
