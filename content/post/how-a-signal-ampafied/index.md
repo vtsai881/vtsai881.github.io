@@ -10,8 +10,6 @@ Article originally published in [Issue 20 of Grey Matters Journal](https://greym
 
 *Art by [Olivia D'Costa](https://greymattersjournal.org/author/olivia/).*
 
-![png](1.png)
-
 ## Introduction
 
 We've all heard of Pavlov's dog, the notorious dog that Ivan Pavlov conditioned in a series of experiments to salivate at the sound of a bell by repeatedly ringing the bell right before giving the dog its dinner [^1]. Pavlov's experiments on his dog were groundbreaking. They were the basis for a new theory of learning in psychology: associative learning or learning by forming connections between things and our responses to them. In the case of Pavlov's dog, the animal formed an association between the dinner bell and the dinner itself, learning that the bell signified dinner [^1]. Associations like these are present in our day-to-day lives: they're how we learn new things, and how our subconscious memory of these things outlasts their presence in our lives, like how you might reach for your phone when you hear something that sounds like your ringtone or how one might be reminded of an old friend when listening to a nostalgic song. [^1].
@@ -34,7 +32,7 @@ The second way that an NMDA channel's magnesium block can be removed involves a 
 
 But after that first initial coincidence, if the resulting increased depolarization caused by NMDA channels opening isn’t large enough for the neuron to reach threshold and fire an action potential, the information from the previous neuron and the correlation of these two events is lost [^5]. Worse, the synapse in question suffers from NMDA channels opening but not making the neuron positive enough to fire an action potential. The small influx of calcium ions into the neuron triggers the removal of already existing AMPA receptors at that synapse, making it weaker and less sensitive to stimulation from the presynaptic neuron. This phenomenon is called long-term depression (LTD). LTD works opposite to the common saying, “if at first you don’t succeed, try, try again.” Trying and failing to fire an action potential will punish a synapse more than not trying at all [^5]. And to a certain extent, we mirror our neurons. A near-victory is more crushing than if we didn’t think we had a chance from the start.
 
-![png](featured.png)
+![png](3.png)
 
 ## Applications + Current Research
 

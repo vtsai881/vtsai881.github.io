@@ -11,8 +11,6 @@ Article originally published in [Issue 19 of Grey Matters Journal](https://greym
 
 *Art by [Kayrina Bui](https://greymattersjournal.org/author/kayrina/).*
 
-![png](featured.png)
-
 The year was 1998 and a blind woman had done the seemingly impossible: she had managed to accurately post a letter in a constantly rotating mail slot. By all accounts, she was blind. She couldn’t go about daily life without her cane or a guide telling her where things were. But somehow, she was able to ‘see’ that mail slot in a strange, not fully conscious way. Before this moment, she’d never realized that she could still see, in a way, while blind. It was only after being asked to perform these tasks for an experiment that she realized she had such a mysterious ability [^1].
 
 Her ability had been observed in others before, but had mainly been attributed to a sort of ‘sixth sense’ or ‘phantom sight’ following an injury causing blindness. Only recently has this ability been recognized as a scientific phenomenon, aptly named “blindsight.” Blindsight is as much of a paradox as its name. It describes the ability of those who are blind to pinpoint and respond to objects in their field of vision [^2]. Blindsight sometimes occurs in people who are fully blind as well as those who have damage to either the left or right side of their field of vision [^2]. In other words, it’s a ‘sight’ that’s unique to certain blind people and uses a different part of the brain than involved in what we typically think of as vision.

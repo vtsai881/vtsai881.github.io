@@ -10,8 +10,6 @@ Article originally published in [Issue 17 of Grey Matters Journal](https://greym
 
 *Art by [Nina Chen](https://greymattersjournal.org/author/nina/).*
 
-![png](1.png)
-
 Bacteria have a historically well-deserved bad rap. After all, they make us sick and spoil our food. Therefore, a natural reaction to hearing that around a hundred trillion bacteria inhabit us would be disgust, fear, or maybe even confusion [^1]. However, human-inhabiting bacteria aren’t as scary as they sound. These bacteria, collectively called microbiota, normally don’t harm us, and instead actually contribute to many human functions like digestion and, more surprisingly, stress and emotion.
 
 Clinical research on the symbiotic relationship between our body and the bacteria that inhabit us suggests that our microbiota may have an influence on our emotions. Previously, scientists had only observed direct evidence of the two-way communication system linking the gut and the brain in other mammals, such as rats and mice, but now we know this mechanism exists in humans as well. This discovery has provided us with a new perspective on major psychological disorders, such as depression, anxiety and schizophrenia. With these findings, there are new avenues of treatment to explore, such as altering the composition of an individual’s microbiota to alter their mood [^2].

@@ -11,8 +11,6 @@ Article originally published in [Issue 20 of Grey Matters Journal](https://greym
 
 *Art by [Ohnshim Kim](https://greymattersjournal.org/author/ohmshim/).*
 
-![png](featured.png)
-
 ## Introduction
 
 A sore throat. A cough. Difficulty breathing. In the post-2020 era, these symptoms are readily identifiable and directly related to an infection from the SARS-CoV-2 virus, which has taken the world by storm. We wear masks to stop ourselves from spewing viral particles into the air, and we distance ourselves from others to stay out of range of each other’s breaths. When we read about patients, we learn that many are left with diminished lung capacity even after recovery. The virus primarily attacks our respiratory system; often to a devastating, life-threatening degree. It’s no wonder that these respiratory failures have come to shape public understanding and knowledge of the disease itself.
