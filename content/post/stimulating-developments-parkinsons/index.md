@@ -24,7 +24,7 @@ DBS is a fairly recent development in the treatment of Parkinson’s disease. It
 
 However, the exact mechanism behind the relief from DBS is still unknown [^7]. What we do know is that it somehow helps the neurons that normally receive dopamine, which fire more or less frequently than normal when this input is disrupted by disease progress [^8]. The stimulation from the DBS electrode seems to inhibit neurons that are firing more frequently than normal and seems to excite neurons that are firing less frequently than normal [^8].
 
-![png](2.png)
+![png](featured.png)
 
 Despite the fact that we don’t know the details of the mechanism behind DBS, it’s surprisingly effective at alleviating symptoms of Parkinson’s. A 2019 retrospective study from Pennsylvania Hospital that surveyed their first 400 DBS patients with Parkinson’s found that of those who received the surgery, 92.5% were happy with their treatment, 95% would recommend it, and 75% felt it provided control over their symptoms [^6]. As a whole, patients reported an improved quality of life of those surveyed improved over when they were taking Parkinson’s drugs [^6].
 

@@ -26,7 +26,7 @@ Out of several theories, one predicts bacteria might influence the vagus nerve, 
 
 If we can understand how bacteria use gut-brain pathways to affect mood, we can adapt their methods to help treat psychiatric disorders that have been linked to specific parts of these pathways. More specifically, to treat symptoms of stress disorders, we can manipulate different bacteria in the microbiota.    
 
-![png](2.png)
+![png](featured.png)
 
 ## The microbiota’s effect on stress-related behaviors:
 

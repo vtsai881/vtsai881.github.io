@@ -34,7 +34,7 @@ The second way that an NMDA channel's magnesium block can be removed involves a 
 
 But after that first initial coincidence, if the resulting increased depolarization caused by NMDA channels opening isn’t large enough for the neuron to reach threshold and fire an action potential, the information from the previous neuron and the correlation of these two events is lost [^5]. Worse, the synapse in question suffers from NMDA channels opening but not making the neuron positive enough to fire an action potential. The small influx of calcium ions into the neuron triggers the removal of already existing AMPA receptors at that synapse, making it weaker and less sensitive to stimulation from the presynaptic neuron. This phenomenon is called long-term depression (LTD). LTD works opposite to the common saying, “if at first you don’t succeed, try, try again.” Trying and failing to fire an action potential will punish a synapse more than not trying at all [^5]. And to a certain extent, we mirror our neurons. A near-victory is more crushing than if we didn’t think we had a chance from the start.
 
-![png](3.png)
+![png](featured.png)
 
 ## Applications + Current Research
 

@@ -11,7 +11,7 @@ Article originally published in [Issue 19 of Grey Matters Journal](https://greym
 
 *Art by [Kayrina Bui](https://greymattersjournal.org/author/kayrina/).*
 
-![png](1.png)
+![png](featured.png)
 
 The year was 1998 and a blind woman had done the seemingly impossible: she had managed to accurately post a letter in a constantly rotating mail slot. By all accounts, she was blind. She couldn’t go about daily life without her cane or a guide telling her where things were. But somehow, she was able to ‘see’ that mail slot in a strange, not fully conscious way. Before this moment, she’d never realized that she could still see, in a way, while blind. It was only after being asked to perform these tasks for an experiment that she realized she had such a mysterious ability [^1].
 
