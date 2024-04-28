@@ -1,6 +1,6 @@
 ---
 title: A Gut Feeling
-date: '2020-02-03'
+date: '2019-03-03'
 summary: An overview of the gut microbiota and its relationship with the brain.
 ---
 
@@ -59,6 +59,9 @@ It’s also important to keep in mind that the composition of a person’s micro
 However, that’s not to say that research on the human microbiota shouldn’t be conducted. Researchers and volunteers should keep in mind the many ethical implications of the studies they are taking part in. Even so, we’ve already seen an overwhelming amount of positive results so far showing how it’s possible to reduce stress-related behaviors just by slightly altering an animal’s microbiota. These results seem to indicate more steps towards a more effective therapy for psychological disorders than towards a loss of privacy and security around our gut feelings.
 
 ### **Check out the rest of Issue 17 of Grey Matters Journal [here](https://greymattersjournal.org/tag/issue-17/)!**
+
+
+## References
 
 [^1]: American Society for Microbiology. (2014) [https://www.asm.org/](https://www.asm.org/)
 [^2]: Pasricha, Pankaj [Stanford Health Care]. (2011, March 2). Stanford Hospital’s Pankaj Pasricha discusses the Enteric Nervous
