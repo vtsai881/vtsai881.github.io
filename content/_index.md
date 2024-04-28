@@ -79,6 +79,7 @@ sections:
           date_end: '2024-08-15'
           description: |-2
             Used the high resolution cellular and molecular neuroscience techniques of ex vivo patch-clamp electrophysiology and in-situ hybridization in combination with fiber photometry recordings and 2-photon imaging during headfixed behavior assays to comprehensively characterize the role of endogenous opioids and their receptors in shaping prefrontocortical microcircuits involved in motivated behavior. Set up hardware and software for video acquisition and wrote simple computer vision- based tools for video processing. Set up and implemented computational behavioral quantification methods and taught researchers across institutes to use them in their own research.
+
             **Advisor: Hugo Tejeda**
         - title: Undergraduate Researcher
           company: Golden Lab, University of Washington
@@ -89,6 +90,7 @@ sections:
           date_end: '2022-08-01'
           description: |-2
             Worked on computational analyses of complex behavior in mice (aggression, social interaction, food-seeking) using deep- and machine-learning based methods for pose estimation and behavioral quantification. Developed computational pipelines using unsupervised machine learning dimensionality reduction and clustering methods for visualizing and interpreting whole-brain fos cellular activation data.
+
             **Advisor: Sam Golden**
         - title: Undergraduate Research Assistant
           company: Perlmutter Lab, University of Washington
@@ -99,6 +101,7 @@ sections:
           date_end: '2021-05-01'
           description: |-2
             Assessed the therapeutic effect of targeted activity-dependent spinal stimulation (TADSS) on motor function and axonal regeneration following spinal cord injury in rats.
+            
             **Advisor: Steve Perlmutter**
     design:
       columns: '2'
