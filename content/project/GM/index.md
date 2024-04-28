@@ -3,7 +3,7 @@ title: Grey Matters Journal
 summary: 
 tags:
   - Grey Matters
-date: '2016-04-27T00:00:00Z'
+date: '2022-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://greymattersjournal.org/about-grey-matters/'
@@ -19,15 +19,15 @@ links:
     url: https://greymattersjournal.org/
   - icon: twitter
     icon_pack: fab
-    name: Follow GM on Twitter!
+    name: Follow GM on Twitter
     url: https://twitter.com/_Grey_Matters_
   - icon: instagram
     icon_pack: fab
-    name: Get article updates on Instagram!
+    name: Get article updates on Instagram
     url: https://www.instagram.com/greymattersjournal/
   - icon: youtube
     icon_pack: fab
-    name: Find GM on YouTube!
+    name: Find GM on YouTube
     url: https://www.youtube.com/channel/UClQ2JVSHGdaPb5elQE5QoHA/
 url_code: ''
 url_pdf: ''

@@ -2,14 +2,14 @@
 title: The transcriptional response of cortical neurons to concussion reveals divergent
   fates after injury
 authors:
-- Mor R Alkaslasi
-- Eliza YH Lloyd
-- Austin S Gable
+- Mor R. Alkaslasi
+- Eliza Y.H. Lloyd
+- Austin S. Gable
 - Hanna Silberberg
-- Hector E Yarur
-- Valerie S Tsai
-- Hugo A Tejeda
-- Claire E Le Pichon
+- Hector E. Yarur
+- Valerie S. Tsai
+- Hugo A. Tejeda
+- Claire E. Le Pichon
 date: '2024-03-26'
 publishDate: ''
 publication_types:

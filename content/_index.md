@@ -44,7 +44,7 @@ sections:
       username: admin
   - block: skills
     content:
-      title: Skills
+      title: What I Do
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
@@ -193,8 +193,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Grey Matters
+          tag: Grey Matters
         - name: Other
           tag: Demo
     design:
@@ -219,7 +219,7 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Looking for a specific paper? See all publications [here](./publication/).
         {{% /callout %}}
       filters:
         folders:
@@ -233,7 +233,7 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: ''
+      text: Send me a message! Always happy to chat.
       # Contact (add or remove contact options as necessary)
       email: vsctsai@stanford.edu
       contact_links:
