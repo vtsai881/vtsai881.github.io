@@ -62,7 +62,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Neuroscience PhD Student
+        - title: PhD Student
           company: Stanford University
           company_url: ''
           company_logo: ''
@@ -77,8 +77,7 @@ sections:
           location: Maryland
           date_start: '2022-08-15'
           date_end: '2024-08-15'
-          description: |-2
-          Used the high resolution cellular and molecular neuroscience techniques of ex vivo patch-clamp electrophysiology and in-situ hybridization in combination with fiber photometry recordings and 2-photon imaging during headfixed behavior assays to comprehensively characterize the role of endogenous opioids and their receptors in shaping prefrontocortical microcircuits involved in motivated behavior. Set up hardware and software for video acquisition and wrote simple computer vision- based tools for video processing. Set up and implemented computational behavioral quantification methods and taught researchers across institutes to use them in their own research.
+          description: ''
         - title: Undergraduate Researcher
           company: Golden Lab, University of Washington
           company_url: ''
@@ -86,9 +85,7 @@ sections:
           location: Washington
           date_start: '2020-09-01'
           date_end: '2022-08-01'
-          description: |-2
-          Worked on computational analyses of complex behavior in mice (aggression, social interaction, food-seeking) using deep- and machine-learning based methods for pose estimation and behavioral quantification. Developed computational pipelines using unsupervised machine learning dimensionality reduction and clustering methods for visualizing and interpreting whole-brain fos cellular activation data.
-          **Advisor: Sam Golden**
+          description: ''
         - title: Undergraduate Research Assistant
           company: Perlmutter Lab, University of Washington
           company_url: ''
@@ -96,9 +93,7 @@ sections:
           location: Washington
           date_start: '2019-07-01'
           date_end: '2021-05-01'
-          description: |-2
-          Assessed the therapeutic effect of targeted activity-dependent spinal stimulation (TADSS) on motor function and axonal regeneration following spinal cord injury in rats.
-          **Advisor: Steve Perlmutter**
+          description: ''
     design:
       columns: '2'
   - block: accomplishments
@@ -280,7 +275,7 @@ sections:
       title: Contact
       subtitle:
       text: |-2
-        📬 Send me a message! Always happy to chat about science, writing, behavioral analysis tools, and potential opportunities or collaborations.
+        Send me a message! Always happy to talk science, writing, behavioral analysis tools, and potential opportunities or collaborations.
       # Contact (add or remove contact options as necessary)
       email: vsctsai@stanford.edu
       contact_links:
