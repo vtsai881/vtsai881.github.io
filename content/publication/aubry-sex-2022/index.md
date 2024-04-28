@@ -38,7 +38,9 @@ abstract: Aggression is an evolutionarily conserved, adaptive component of socia
   sexes.
 tags:
 - Motivation
-- Social neuroscience
+- Social Behavior
+- Aggression
+- Sex Differences
 
 url_pdf: ''
 links:

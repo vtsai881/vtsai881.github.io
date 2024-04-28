@@ -78,9 +78,9 @@ sections:
           date_start: '2022-08-15'
           date_end: '2024-08-15'
           description: |-2
-          Used the high resolution cellular and molecular neuroscience techniques of ex vivo patch-clamp electrophysiology and in-situ hybridization in combination with fiber photometry recordings and 2-photon imaging during headfixed behavior assays to comprehensively characterize the role of endogenous opioids and their receptors in shaping prefrontocortical microcircuits involved in motivated behavior. Set up hardware and software for video acquisition and wrote simple computer vision- based tools for video processing. Set up and implemented computational behavioral quantification methods and taught researchers across institutes to use them in their own research.
+            Used the high resolution cellular and molecular neuroscience techniques ex vivo patch-clamp electrophysiology and in-situ hybridization in combination with fiber photometry recordings and 2-photon imaging during headfixed behavior assays to comprehensively characterize the role of endogenous opioids and their receptors in shaping prefrontocortical microcircuits involved in motivated behavior. Set up hardware and software for video acquisition and wrote simple computer vision- based tools for video processing. Set up and implemented computational behavioral quantification methods and taught researchers across institutes to use them in their own research.
 
-          **Advisor: Hugo Tejeda**
+            **Advisor: Hugo Tejeda**
         - title: Undergraduate Researcher
           company: Golden Lab, University of Washington
           company_url: ''
@@ -89,9 +89,9 @@ sections:
           date_start: '2020-09-01'
           date_end: '2022-08-01'
           description: |-2
-          Worked on computational analyses of complex behavior in mice (aggression, social interaction, food-seeking) using deep- and machine-learning based methods for pose estimation and behavioral quantification. Developed computational pipelines using unsupervised machine learning dimensionality reduction and clustering methods for visualizing and interpreting whole-brain fos cellular activation data.
+            Worked on computational analyses of complex behavior in mice (aggression, social interaction, food-seeking) using deep- and machine-learning based methods for pose estimation and behavioral quantification. Developed computational pipelines using unsupervised machine learning dimensionality reduction and clustering methods for visualizing and interpreting whole-brain fos cellular activation data.
 
-          **Advisor: Sam Golden**
+            **Advisor: Sam Golden**
         - title: Undergraduate Research Assistant
           company: Perlmutter Lab, University of Washington
           company_url: ''
@@ -100,9 +100,9 @@ sections:
           date_start: '2019-07-01'
           date_end: '2021-05-01'
           description: |-2
-          Assessed the therapeutic effect of targeted activity-dependent spinal stimulation (TADSS) on motor function and axonal regeneration following spinal cord injury in rats.
-
-          **Advisor: Steve Perlmutter**
+            Assessed the therapeutic effect of targeted activity-dependent spinal stimulation (TADSS) on motor function and axonal regeneration following spinal cord injury in rats.
+            
+            **Advisor: Steve Perlmutter**
     design:
       columns: '2'
   - block: accomplishments
@@ -120,7 +120,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2024-04-01'
+          date_start: '2024-09-01'
           description: |-2
             Awarded to outstanding graduate students who have demonstrated the potential to be high achieving scientists early in their career. One of 2,000 awardees selected from a pool of 15,000+ applicants.
           icon: ''
@@ -132,7 +132,7 @@ sections:
           date_end: ''
           date_start: '2024-04-24'
           description: |-2
-            Awarded to URM graduate students, postdocs, faculty and scientists to receive funding assistance to attend their first GRC.
+            Awarded to URM graduate students, postdocs, faculty and scientists to receive funding assistance to attend their first Gordon Research Conference.
           icon: ''
           organization: Gordon Research Conferences
           organization_url: ''
@@ -142,7 +142,7 @@ sections:
           date_end: ''
           date_start: '2023-08-24'
           description: |-2
-            Awarded to high-achieving trainees of all levels to encourage them to share their research and accomplishments by giving presentations at scientific conferences. 
+            Awarded to high-achieving trainees of all levels to encourage them to share their research and accomplishments by giving presentations at scientific conferences.
           icon: ''
           organization: National Institute of Mental Health
           organization_url: ''
@@ -246,7 +246,7 @@ sections:
         - name: Grey Matters
           tag: Grey Matters
         - name: Other
-          tag: Demo
+          tag: Code
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -265,6 +265,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
+    id: publication
     content:
       title: Recent Publications
       text: |-
@@ -285,7 +286,8 @@ sections:
       subtitle:
       text: |-2
         📬 Send me a message! Always happy to chat about science, writing, behavioral analysis tools, 
-        and potential opportunities or collaborations.
+        advice for grad school or undergrad research, and potential opportunities or collaborations.
+        {style="text-align: justify;"}
       # Contact (add or remove contact options as necessary)
       email: vsctsai@stanford.edu
       contact_links:

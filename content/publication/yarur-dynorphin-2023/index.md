@@ -53,8 +53,10 @@ abstract: The medial prefrontal cortex (mPFC) controls behavior via connections 
   disorders characterized by dysregulation in mPFC integration of long-range afferents
   with local inhibitory microcircuits.
 tags:
-- Neuroscience
-- Physiology
+- Electrophysiology
+- Anatomy
+- Neuropeptides
+- Prefrontal Cortex
 featured: true
 url_pdf: ''
 links:

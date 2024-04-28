@@ -55,17 +55,17 @@ skills:
         icon_pack: emoji
       - name: Patching
         description: ''
-        percent: 80
+        percent: 85
         icon: 🧠
         icon_pack: emoji
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: 🐍
         icon_pack: emoji
       - name: Data Analysis
         description: ''
-        percent: 75
+        percent: 80
         icon: 📈
         icon_pack: emoji
   - name: Hobbies
@@ -121,13 +121,13 @@ social:
     link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 ---
 
 Hi, I'm Valerie! I am an incoming Neuroscience PhD Student at Stanford University interested in using computational modeling and closed-loop optogenetics to define the structure of the circuits, systems, and motor sequences underlying social behavior.
 {style="text-align: justify;"}
 
-I did my undergrad at the University of Washington, where I earned a Neuroscience BS and an English Minor. I conducted an honors thesis with Dr. Sam Golden where I used deep and machine learning to quantitatively phenotype the behavioral sequences and whole-brain cfos ensembles underlying maladaptive aggression. I also wrote for and was Editor-in-Chief of [Grey Matters Journal](https://greymattersjournal.org/), a neuroscience outreach organization founded and run by undergraduate students aimed at fostering scientific engagement through community outreach, diversity and inclusivity initiatives, and effective scientific communication.
+I did my undergrad at the University of Washington, where I earned a Neuroscience BS and an English Minor. I conducted an honors thesis research project with Dr. Sam Golden where I used deep and machine learning to quantitatively phenotype the behavioral sequences and whole-brain cfos ensembles underlying maladaptive aggression. I was also Editor-in-Chief of [Grey Matters Journal](https://greymattersjournal.org/), a neuroscience outreach organization founded and run by undergraduate students aimed at fostering scientific engagement through community outreach, diversity and inclusivity initiatives, and effective scientific communication.
 {style="text-align: justify;"}
 
 After graduating in 2022, I worked at the National Institute of Mental Health as an IRTA Post-Baccalaureate Research Fellow in the Unit on Neuromodulation and Synaptic Integration, where I learned to use patch clamp electrophysiology and one- and two-photon microscopy to investigate the impact of endogenous opioid signaling on PFC microcircuitry and motivated behavior. 
