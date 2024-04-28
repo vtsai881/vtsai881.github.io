@@ -2,6 +2,8 @@
 title: A Gut Feeling
 date: '2019-03-03'
 summary: An overview of the gut microbiota and its relationship with the brain.
+tags:
+  - Grey Matters
 ---
 
 {{% callout note %}}
@@ -9,8 +11,6 @@ Article originally published in [Issue 17 of Grey Matters Journal](https://greym
 {{% /callout %}}
 
 *Art by [Nina Chen](https://greymattersjournal.org/author/nina/).*
-
-![png](1.png)
 
 Bacteria have a historically well-deserved bad rap. After all, they make us sick and spoil our food. Therefore, a natural reaction to hearing that around a hundred trillion bacteria inhabit us would be disgust, fear, or maybe even confusion [^1]. However, human-inhabiting bacteria aren’t as scary as they sound. These bacteria, collectively called microbiota, normally don’t harm us, and instead actually contribute to many human functions like digestion and, more surprisingly, stress and emotion.
 
@@ -26,7 +26,7 @@ Out of several theories, one predicts bacteria might influence the vagus nerve, 
 
 If we can understand how bacteria use gut-brain pathways to affect mood, we can adapt their methods to help treat psychiatric disorders that have been linked to specific parts of these pathways. More specifically, to treat symptoms of stress disorders, we can manipulate different bacteria in the microbiota.    
 
-![png](2.png)
+![png](featured.png)
 
 ## The microbiota’s effect on stress-related behaviors:
 
@@ -59,9 +59,6 @@ It’s also important to keep in mind that the composition of a person’s micro
 However, that’s not to say that research on the human microbiota shouldn’t be conducted. Researchers and volunteers should keep in mind the many ethical implications of the studies they are taking part in. Even so, we’ve already seen an overwhelming amount of positive results so far showing how it’s possible to reduce stress-related behaviors just by slightly altering an animal’s microbiota. These results seem to indicate more steps towards a more effective therapy for psychological disorders than towards a loss of privacy and security around our gut feelings.
 
 ### **Check out the rest of Issue 17 of Grey Matters Journal [here](https://greymattersjournal.org/tag/issue-17/)!**
-
-
-## References
 
 [^1]: American Society for Microbiology. (2014) [https://www.asm.org/](https://www.asm.org/)
 [^2]: Pasricha, Pankaj [Stanford Health Care]. (2011, March 2). Stanford Hospital’s Pankaj Pasricha discusses the Enteric Nervous

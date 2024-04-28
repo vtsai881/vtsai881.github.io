@@ -44,7 +44,7 @@ sections:
       username: admin
   - block: skills
     content:
-      title: Skills
+      title: What I Do
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
@@ -65,7 +65,7 @@ sections:
         - title: PhD Student
           company: Stanford University
           company_url: ''
-          company_logo: stanford
+          company_logo: ''
           location: California
           date_start: '2024-09-23'
           date_end: ''
@@ -73,23 +73,23 @@ sections:
         - title: IRTA Post-Baccalaureate Research Fellow
           company: Unit on Neuromodulation and Synaptic Integration, NIMH
           company_url: ''
-          company_logo: nih
+          company_logo: ''
           location: Maryland
           date_start: '2022-08-15'
           date_end: '2024-08-15'
           description: ''
         - title: Undergraduate Researcher
-          company: Golden Lab, UW
+          company: Golden Lab, University of Washington
           company_url: ''
-          company_logo: uw
+          company_logo: ''
           location: Washington
           date_start: '2020-09-01'
           date_end: '2022-08-01'
           description: ''
         - title: Undergraduate Research Assistant
-          company: Perlmutter Lab, UW
+          company: Perlmutter Lab, University of Washington
           company_url: ''
-          company_logo: uw
+          company_logo: ''
           location: Washington
           date_start: '2019-07-01'
           date_end: '2021-05-01'
@@ -112,32 +112,84 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2024-04-01'
-          description: ''
-          icon: graduation-cap
+          description: |-2
+            Awarded to outstanding graduate students who have demonstrated the potential to be high achieving scientists early in their career. One of 2,000 awardees selected from a pool of 15,000+ applicants.
+          icon: ''
           organization: National Science Foundation
           organization_url: ''
-          title: National Science Foundation (NSF) Graduate Research Fellowship Program Award
+          title: NSF Graduate Research Fellowship Program Award
           url: ''
         - certificate_url: ''
           date_end: ''
+          date_start: '2024-4-24'
+          description: |-2
+            Awarded to URM graduate students, postdocs, faculty and scientists to receive funding assistance to attend their first GRC.
+          icon: ''
+          organization: Gordon Research Conferences
+          organization_url: ''
+          title:  Carl Storm Underrepresented Minority (CSURM) Fellowship
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-8-24'
+          description: |-2
+            Awarded to high-achieving trainees of all levels to encourage them to share their research and accomplishments by giving presentations at scientific conferences. 
+          icon: ''
+          organization: National Institute of Mental Health
+          organization_url: ''
+          title:  NIMH Scientific Training Day Travel Award
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-4-24'
+          description: Awarded to presenters who scored in the top 20% of all posters presented at the NIH Post-Baccalaureate Poster Day.
+          icon: ''
+          organization: National Institutes of Health
+          organization_url: ''
+          title: NIH Post-Bac Poster Day Outstanding Poster Award
+          url: ''
+        - certificate_url: ''
+          date_end: '2022-05-01'
           date_start: '2021-10-01'
-          description: ''
-          icon: uw
-          organization: Undergraduate Research Program, UW
+          description: |-2
+            Award funded by Art and Rita Levinson providing flexible support to undergraduates who have shown promise as dedicated, creative, and highly independent researchers to further their work in the life sciences and related fields. Provides a research stipend, academic scholarship, and funding for lab expenses.
+          icon: ''
+          organization: Undergraduate Research Program, University of Washington
           organization_url: ''
           title: Levinson Emerging Scholars Award
           url: ''
         - certificate_url: ''
           date_end: ''
           date_start: '2020-05-01'
-          description: ''
-          icon: uw
-          organization: NAPE Center, UW
+          description: |-2
+            Award issued by the University of Washington Center of Excellence in Neurobiology of Addiction, Pain, and Emotion funded by the NIH through a NIDA P30 Award providing training and financial support to motivated undergraduates interested in pursuing a career in research. Provides a research stipend and support for career development.
+          icon: ''
+          organization: NAPE Center, University of Washington
           organization_url: ''
           title: NAPE Undergraduate Research Award
           url: ''
+        - certificate_url: ''
+          date_end: '2022-06-05'
+          date_start: '2018-09-01'
+          description: Awarded to students maintaining above a 3.5 cumulative GPA.
+          icon: ''
+          organization: University of Washington
+          organization_url: ''
+          title: Dean's List
+          url: ''
     design:
       columns: '2'
+  - block: collection
+    id: featured
+    content:
+      title: Featured Post
+      filters:
+        folders:
+          - post
+        featured_only: true
+    design:
+      columns: '2'
+      view: card
   - block: collection
     id: posts
     content:
@@ -182,8 +234,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Grey Matters
+          tag: Grey Matters
         - name: Other
           tag: Demo
     design:
@@ -193,7 +245,7 @@ sections:
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
   - block: collection
-    id: featured
+    id: featured-pub
     content:
       title: Featured Publications
       filters:
@@ -208,7 +260,7 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
+        Looking for a specific paper? See all publications [here](./publication/).
         {{% /callout %}}
       filters:
         folders:
@@ -222,14 +274,15 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: ''
+      text: |-2
+        Send me a message! Always happy to talk science, writing, behavioral analysis tools, and potential opportunities or collaborations.
       # Contact (add or remove contact options as necessary)
       email: vsctsai@stanford.edu
       contact_links:
         - icon: twitter
           icon_pack: fab
           name: '@val_tsais'
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/val_tsais'
       # Automatically link email and phone or display as text?
       autolink: true
     design:
