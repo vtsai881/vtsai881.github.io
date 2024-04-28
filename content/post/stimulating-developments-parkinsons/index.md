@@ -2,6 +2,8 @@
 title: Stimulating Developments in Parkinson’s Treatment
 date: '2019-12-05'
 summary: A stimulating exploration of an electrifying new treatment for Parkinson's Disease, Deep Brain Stimulation.
+tags:
+  - Grey Matters
 ---
 
 {{% callout note %}}

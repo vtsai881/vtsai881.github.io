@@ -3,6 +3,8 @@ title: COVID on the Brain
 date: '2021-02-05'
 summary: |-2
     An overview of the primary literature concerning the SARS-CoV-2 virus' short- and long-term effects on the brain and nervous system.
+tags:
+  - Grey Matters
 ---
 
 {{% callout warning %}}

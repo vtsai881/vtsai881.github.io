@@ -3,11 +3,17 @@ title: Computational Neuroethology, A Machine Vision of the Future
 date: '2021-11-05'
 summary: |-2 
     A report on recently developed deep and machine learning tools for behavioral neuroscience, and a comment on the future of the field as a whole.
+tags:
+  - Grey Matters
 featured: true
 ---
 
 {{% callout note %}}
-Article originally published in [Issue 24 of Grey Matters Journal](https://greymattersjournal.org/pandemic-dreams/).
+Article originally published in [Issue 24 of Grey Matters Journal](https://greymattersjournal.org/computational-neuroethology-a-machine-vision-of-the-future/).
+{{% /callout %}}
+
+{{% callout note %}}
+Support open science by trying out one of the many tools mentioned in the article (and more) in your research today: [**SimBA**](https://github.com/sgoldenlab/simba), [**SLEAP**](https://github.com/talmolab/sleap), [**Keypoint-MoSeq**](https://github.com/dattalab/keypoint-moseq), [A-SOiD and B-SOiD](https://github.com/YttriLab), [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut), [DeepPoseKit](https://github.com/jgraving/DeepPoseKit), [JAABA](https://jaaba.sourceforge.net/), [Anipose](https://github.com/lambdaloop/anipose), [DANNCE](https://github.com/spoonsso/dannce), [MARS](https://github.com/neuroethology), [VAME](https://github.com/LINCellularNeuroscience/VAME). Feel free to [reach out](https://vtsai881.github.io/vsctsai.github.io/#contact) if you have any questions!
 {{% /callout %}}
 
 *Art by [Jonathan Bustamante Osorio](https://greymattersjournal.org/author/jonathan-bustamante-osorio/).*
@@ -71,10 +77,6 @@ While each of these programs has its own caveats and are less polished than a si
 Building better algorithms necessitates the opening of doors for new, previously unheard voices in science. This is why the discussion of machine learning models here is focused mainly on open-source programs despite several of them existing in papers not currently peer-reviewed. As these programs are each a work in progress, the direction each update takes in adding to programs is a conversation between researcher and coder. Programs end up tuned to research needs as they come and consequently grow more robust as a result. Their open source nature and accessibility also encourage an often-overlooked but integral aspect of science: researchers building off of one another’s data or ideas and collaborating to bring us closer to the neurological basis of behavior one dataset at a time.
 
 ### **Check out the rest of Issue 24 of Grey Matters Journal [here](https://greymattersjournal.org/tag/issue-24/)!**
-
-{{% callout note %}}
-Support open science by trying out one of the many tools mentioned in the article (and more) in your research today: [**SimBA**](https://github.com/sgoldenlab/simba), [**SLEAP**](https://github.com/talmolab/sleap), [**Keypoint-MoSeq**](https://github.com/dattalab/keypoint-moseq), [A-SOiD and B-SOiD](https://github.com/YttriLab), [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut), [DeepPoseKit](https://github.com/jgraving/DeepPoseKit), [JAABA](https://jaaba.sourceforge.net/), [Anipose](https://github.com/lambdaloop/anipose), [DANNCE](https://github.com/spoonsso/dannce), [MARS](https://github.com/neuroethology), [VAME](https://github.com/LINCellularNeuroscience/VAME). Feel free to [reach out](/#contact) if you have any questions!
-{{% /callout %}}
 
 [^1]: Egnor, S. E., & Branson, K. (2016). Computational Analysis of Behavior. Annual review of neuroscience, 39, 217–236.
     [https://doi.org/10.1146/annurev-neuro-070815-013845](https://doi.org/10.1146/annurev-neuro-070815-013845)

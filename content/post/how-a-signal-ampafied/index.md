@@ -2,6 +2,8 @@
 title: How a Signal is AMPA'fied
 date: '2020-03-05'
 summary: A deep dive into the NMDA/AMPA receptor system, which plays a major role in neuroplasticity.
+tags:
+  - Grey Matters
 ---
 
 {{% callout note %}}

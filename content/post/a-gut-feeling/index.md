@@ -2,6 +2,8 @@
 title: A Gut Feeling
 date: '2019-03-03'
 summary: An overview of the gut microbiota and its relationship with the brain.
+tags:
+  - Grey Matters
 ---
 
 {{% callout note %}}

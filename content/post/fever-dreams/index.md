@@ -2,6 +2,8 @@
 title: Fever Dreams
 date: '2021-06-05'
 summary: A foray into the research exploring the strange dreams people experienced during the initial wave of COVID-19.
+tags:
+  - Grey Matters
 ---
 
 {{% callout warning %}}

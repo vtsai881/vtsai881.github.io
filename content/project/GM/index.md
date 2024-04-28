@@ -9,7 +9,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: 'https://greymattersjournal.org/about-grey-matters/'
 
 image:
-  caption: Art by Sarah Wells ([Source](https://greymattersjournal.org/weeding-out-misconceptions--neurological-effects-of-marijuana/))
+  caption: Art by Allison Li ([Source](https://greymattersjournal.org/navigating-the-cosmos-of-whole-brain-imaging/))
   focal_point: Smart
 
 links:
