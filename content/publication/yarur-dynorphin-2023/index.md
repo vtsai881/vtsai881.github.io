@@ -10,12 +10,21 @@ authors:
 - Huikun Wang
 - Miguel Arenivar
 - Hugo A. Tejeda
+author_notes:
+  - ''
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
 date: '2023-11-01'
 publishDate: '2024-04-27T22:29:12.832518Z'
 publication_types:
 - article-journal
 publication: '*Molecular Psychiatry*'
-doi: 10.1038/s41380-023-02226-5
+doi: ""
 abstract: The medial prefrontal cortex (mPFC) controls behavior via connections with
   limbic excitatory afferents that engage various inhibitory motifs to shape mPFC
   circuit function. The dynorphin (Dyn) / kappa-opioid receptor (KOR) system is highly
@@ -46,7 +55,9 @@ abstract: The medial prefrontal cortex (mPFC) controls behavior via connections 
 tags:
 - Neuroscience
 - Physiology
+featured: true
+url_pdf: ''
 links:
-- name: URL
+- name: Journal
   url: https://www.nature.com/articles/s41380-023-02226-5
 ---

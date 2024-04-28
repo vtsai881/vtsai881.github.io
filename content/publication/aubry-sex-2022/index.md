@@ -16,7 +16,7 @@ publishDate: '2024-04-27T22:29:12.821647Z'
 publication_types:
 - article-journal
 publication: '*Neuropsychopharmacology*'
-doi: 10.1038/s41386-022-01375-5
+doi: ""
 abstract: Aggression is an evolutionarily conserved, adaptive component of social
   behavior. Studies in male mice illustrate that aggression is influenced by numerous
   factors including the degree to which an individual finds aggression rewarding and
@@ -39,7 +39,9 @@ abstract: Aggression is an evolutionarily conserved, adaptive component of socia
 tags:
 - Motivation
 - Social neuroscience
+
+url_pdf: ''
 links:
-- name: URL
+- name: Journal
   url: https://www.nature.com/articles/s41386-022-01375-5
 ---

@@ -22,7 +22,7 @@ publishDate: '2024-04-27T22:29:12.840836Z'
 publication_types:
 - manuscript
 publication: '*bioRxiv*'
-doi: 10.1101/2023.06.27.546539
+doi: ""
 abstract: Dopamine release in striatal circuits, including the nucleus accumbens (NAc),
   tracks separable features of reward such as motivation and reinforcement. However,
   the cellular and circuit mechanisms by which dopamine receptors transform dopamine
@@ -37,7 +37,11 @@ abstract: Dopamine release in striatal circuits, including the nucleus accumbens
   provides neurons in a limbic circuit with the unique ability to orchestrate dissociable
   aspects of reward-related behaviors that are relevant to the etiology of neuropsychiatric
   disorders.
+tags:
+- Motivation
+- Dopamine
+url_pdf: ''
 links:
-- name: URL
+- name: Journal
   url: https://www.biorxiv.org/content/10.1101/2023.06.27.546539v1
 ---
