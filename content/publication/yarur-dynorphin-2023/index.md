@@ -10,6 +10,15 @@ authors:
 - Huikun Wang
 - Miguel Arenivar
 - Hugo A. Tejeda
+author_notes:
+  - ''
+  - 'Equal contribution'
+  - 'Equal contribution'
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
 date: '2023-11-01'
 publishDate: '2024-04-27T22:29:12.832518Z'
 publication_types:
@@ -46,6 +55,8 @@ abstract: The medial prefrontal cortex (mPFC) controls behavior via connections 
 tags:
 - Neuroscience
 - Physiology
+
+url_pdf: ''
 links:
 - name: URL
   url: https://www.nature.com/articles/s41380-023-02226-5

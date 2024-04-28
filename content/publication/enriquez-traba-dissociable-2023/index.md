@@ -37,6 +37,10 @@ abstract: Dopamine release in striatal circuits, including the nucleus accumbens
   provides neurons in a limbic circuit with the unique ability to orchestrate dissociable
   aspects of reward-related behaviors that are relevant to the etiology of neuropsychiatric
   disorders.
+tags:
+- Motivation
+- Dopamine
+url_pdf: ''
 links:
 - name: URL
   url: https://www.biorxiv.org/content/10.1101/2023.06.27.546539v1

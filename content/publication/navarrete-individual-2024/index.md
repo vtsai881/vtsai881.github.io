@@ -49,7 +49,9 @@ tags:
 - Sex differences
 - Social
 - Stress
+
+url_pdf: ''
 links:
-- name: URL
+- name: Journal
   url: https://www.sciencedirect.com/science/article/pii/S0006322324000337
 ---

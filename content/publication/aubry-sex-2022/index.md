@@ -39,7 +39,9 @@ abstract: Aggression is an evolutionarily conserved, adaptive component of socia
 tags:
 - Motivation
 - Social neuroscience
+
+url_pdf: ''
 links:
-- name: URL
+- name: Journal
   url: https://www.nature.com/articles/s41386-022-01375-5
 ---
