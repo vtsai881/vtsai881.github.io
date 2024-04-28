@@ -18,7 +18,7 @@ These motor impairments, along with mental and behavioral changes characteristic
 
 The main treatment for Parkinson’s is levodopa, a chemical compound that is a precursor to dopamine [^4]. Once it’s absorbed into nervous cells, it’s converted into dopamine, and can thus reduce symptoms of Parkinson’s caused by a lack of dopamine [^4].
 
-A prescription for levodopa or a similar drug is normally enough to relieve most of Parkinson’s worst symptoms so that many patients are able to live everyday lives. However, some people with Parkinson’s don’t respond well to the medications. Taking levodopa as a long-term dopamine-replacement therapy can have serious side effects, including increased restlessness, impulsiveness, and aggression [^5]. These side effects resemble effects of addiction to drugs such as cocaine, and researchers are concerned that dopamine-replacement drugs may be addictive [^5]. This is particularly worrying for Parkinson’s patients, whose dosage must increase as the disease progresses and more dopamine-producing neurons die, increasing their susceptibility to addiction. In other words dosage must be increased to target a decreasing population of neurons
+A prescription for levodopa or a similar drug is normally enough to relieve most of Parkinson’s worst symptoms so that many patients are able to live everyday lives. However, some people with Parkinson’s don’t respond well to the medications. Taking levodopa as a long-term dopamine-replacement therapy can have serious side effects, including increased restlessness, impulsiveness, and aggression [^5]. These side effects resemble effects of addiction to drugs such as cocaine, and researchers are concerned that dopamine-replacement drugs may be addictive [^5]. This is particularly worrying for Parkinson’s patients, whose dosage must increase as the disease progresses and more dopamine-producing neurons die, increasing their susceptibility to addiction. In other words dosage must be increased to target a decreasing population of neurons.
 
 DBS is a fairly recent development in the treatment of Parkinson’s disease. It’s normally recommended to Parkinson’s patients only if they aren’t responding well to drug therapies like levodopa. DBS involves electrodes placed in specific areas of the brain where electrical stimulation has been shown to help manage Parkinson’s symptoms [^7]. Surgeons manipulate the placement of the electrodes to find the orientation that decreases symptoms while minimizing any side effects. These implanted electrodes stimulate nearby neurons by sending an electrical signal, potentially causing an action potential. The neuron’s response can be modulated by the frequency or the pulse width of the electrical signal, which  changes the amount of charge per unit time. Adjusting the electrical signal allows for a highly individualized and flexible treatment approach. In other words, different Parkinson’s patients will have their neurons wired in slightly different ways, both dependent on the extent of the disease, and genetic differences from patient to patient.
 
@@ -41,13 +41,13 @@ Though deep brain stimulation is not intended to cure Parkinson’s, by learning
 
 ## References
 
-[^1]: Parkinson’s Disease (2017, May 16). National Institute on Aging. [https://www.nia.nih.gov/health/parkinsons-disease]
-    (https://www.nia.nih.gov/health/parkinsons-disease).
+[^1]: Parkinson’s Disease (2017, May 16). National Institute on Aging.
+    [https://www.nia.nih.gov/health/parkinsons-disease](https://www.nia.nih.gov/health/parkinsons-disease).
 [^2]: Alcaro, A., Huber, R., & Panksepp, J. (2007). Behavioral functions of the mesolimbic dopaminergic system: an affective
     neuroethological perspective. Brain research reviews , 56 (2), 283–321. [doi:10.1016/j.brainresrev.2007.07.014](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2238694/)
 [^3]: Hartmann, C. J., Fliegen, S., Groiss, S. J., Wojtecki, L., & Schnitzler, A. (2019). An update on best practice of deep 
     brain stimulation in Parkinson’s disease. Therapeutic Advances in Neurological Disorders. [https://doi.org/10.1177/1756286419838096](https://journals.sagepub.com/doi/10.1177/1756286419838096)
-[^4]: Gandhi KR, Saadabadi A. Levodopa (L-Dopa) [Updated 2019 Mar 21]. In: StatPearls [Internet]. Treasure Island (FL):
+[^4]: Gandhi KR, Saadabadi A. Levodopa (L-Dopa) [Updated 2019 Mar 21]. Treasure Island (FL):
      StatPearls Publishing; 2019 Jan-. [Available online](https://www.ncbi.nlm.nih.gov/books/NBK482140/)
 [^5]: Lawrence AD, Evans AH, Lees AJ (2003). Compulsive use of dopamine replacement therapy in Parkinson’s disease: reward 
     systems gone awry? The Lancet: Neurology , 2(10), 595-604. [doi:10.1016/S1474-4422(03)00529-5](https://www.sciencedirect.com/science/article/pii/S1474442203005295?via%3Dihub)
@@ -55,9 +55,10 @@ Though deep brain stimulation is not intended to cure Parkinson’s, by learning
     stimulation for Parkinson’s disease. Journal of Neurosurgery, 1-6, [epub ahead of print]. [doi: 10.3171/2018.8.JNS182081] (https://thejns.org/view/journals/j-neurosurg/aop/article-10.3171-2018.8.JNS182081.xml?tab_body=fullText)
 [^7]: Herrington TM, Cheng JJ, Eskandar EN (2016). Mechanisms of deep brain stimulation. Journal of Neurophysiology , 115(1)
     :19-38. [doi: 10.1152/jn.00281.2015.] (https://www.physiology.org/doi/full/10.1152/jn.00281.2015)
-[^8]: Ashkan, K., Rogers, P., Bergman, H. et al. Insights into the mechanisms of deep brain stimulation. Nat Rev Neurol 13, 548–554 (2017).
-    [https://doi.org/10.1038/nrneurol.2017.105](https://doi.org/10.1038/nrneurol.2017.105)
-[^9]: Elena Moro & Anthony E Lang (2006) Criteria for deep-brain stimulation in Parkinson’s disease: review and analysis, Expert Review of Neurotherapeutics, 6:11, 
+[^8]: Ashkan, K., Rogers, P., Bergman, H. et al. Insights into the mechanisms of deep brain stimulation. 
+    Nat Rev Neurol 13 548–554 (2017). [https://doi.org/10.1038/nrneurol.2017.105](https://doi.org/10.1038/nrneurol.2017.105)
+[^9]: Elena Moro & Anthony E Lang (2006) Criteria for deep-brain stimulation in Parkinson’s disease: review and analysis, Expert
+    Review of Neurotherapeutics, 6:11, 
     1695-1705, [DOI: 10.1586/14737175.6.11.1695](https://www.tandfonline.com/doi/full/10.1586/14737175.6.11.1695).
-[^10]: Schupbach WMM, Chastan N, Welter ML et al. Stimulation of the subthalamic nucleus in Parkinson’s disease: a 5-year follow up. J. Neurol. Neurosurg. Psychiatr.
-     76, 1640–1644 (2005).
+[^10]: Schupbach WMM, Chastan N, Welter ML et al. Stimulation of the subthalamic nucleus in Parkinson’s disease: a 5-year follow
+    up. J. Neurol. Neurosurg. Psychiatr. 76, 1640–1644 (2005).
