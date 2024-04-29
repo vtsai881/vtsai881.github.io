@@ -10,6 +10,10 @@ tags:
 Article originally published in [Issue 26 of Grey Matters Journal](https://greymattersjournal.org/navigating-the-cosmos-of-whole-brain-imaging/).
 {{% /callout %}}
 
+{{% callout warning %}}
+As of April 2024, [funding for the BRAIN Initiative has been cut by 40%](https://braininitiative.nih.gov/news-events/blog/brain-director-funding-neuroscience-uncertain-budget-climate). This will be massively destructive to the progress of the entire field of neuroscience and the livelihood of researchers, their families, and patients. Research described in this article and much, much more would not have been possible without funding from the BRAIN Initiative. Please take the time to [reach](https://twitter.com/BIONIC_Lab/status/1779497706819318074) [out](https://twitter.com/doristsao/status/1783669451533242526) to your Senators and Representatives!([example template from Twitter here](https://twitter.com/BrainsExplained/status/1779582134115561603))
+{{% /callout %}}
+
 *Art by [Allison Li](https://greymattersjournal.org/author/allison/).*
 
 ## Mapping the (B)rainforest
