@@ -81,7 +81,6 @@ sections:
             Used the high resolution cellular and molecular neuroscience techniques ex vivo patch-clamp electrophysiology and in-situ hybridization in combination with fiber photometry recordings and 2-photon imaging during headfixed behavior assays to comprehensively characterize the role of endogenous opioids and their receptors in shaping prefrontocortical microcircuits involved in motivated behavior. Set up hardware and software for video acquisition and wrote simple computer vision- based tools for video processing. Set up and implemented computational behavioral quantification methods and taught researchers across institutes to use them in their own research.
 
             **Advisor: Hugo Tejeda**
-            {style="text-align: justify;"}
         - title: Undergraduate Researcher
           company: Golden Lab, University of Washington
           company_url: ''
@@ -93,7 +92,6 @@ sections:
             Worked on computational analyses of complex behavior in mice (aggression, social interaction, food-seeking) using deep- and machine-learning based methods for pose estimation and behavioral quantification. Developed computational pipelines using unsupervised machine learning dimensionality reduction and clustering methods for visualizing and interpreting whole-brain fos cellular activation data.
 
             **Advisor: Sam Golden**
-            {style="text-align: justify;"}
         - title: Undergraduate Research Assistant
           company: Perlmutter Lab, University of Washington
           company_url: ''
@@ -105,7 +103,6 @@ sections:
             Assessed the therapeutic effect of targeted activity-dependent spinal stimulation (TADSS) on motor function and axonal regeneration following spinal cord injury in rats.
             
             **Advisor: Steve Perlmutter**
-            {style="text-align: justify;"}
     design:
       columns: '2'
   - block: accomplishments
@@ -126,7 +123,6 @@ sections:
           date_start: '2024-04-01'
           description: |-2
             Awarded to outstanding graduate students who have demonstrated the potential to be high achieving scientists early in their career. One of 2,000 awardees selected from a pool of 15,000+ applicants.
-            {style="text-align: justify;"}
           icon: ''
           organization: National Science Foundation
           organization_url: ''
@@ -137,7 +133,6 @@ sections:
           date_start: '2024-04-24'
           description: |-2
             Awarded to URM graduate students, postdocs, faculty and scientists to receive funding assistance to attend their first Gordon Research Conference.
-            {style="text-align: justify;"}
           icon: ''
           organization: Gordon Research Conferences
           organization_url: ''
@@ -147,8 +142,7 @@ sections:
           date_end: ''
           date_start: '2023-08-24'
           description: |-2
-            Awarded to high-achieving trainees of all levels to encourage them to share their research and accomplishments by giving presentations at scientific conferences. 
-            {style="text-align: justify;"}
+            Awarded to high-achieving trainees of all levels to encourage them to share their research and accomplishments by giving presentations at scientific conferences.
           icon: ''
           organization: National Institute of Mental Health
           organization_url: ''
@@ -168,7 +162,6 @@ sections:
           date_start: '2021-10-01'
           description: |-2
             Award funded by Art and Rita Levinson providing flexible support to undergraduates who have shown promise as dedicated, creative, and highly independent researchers to further their work in the life sciences and related fields. Provides a research stipend, academic scholarship, and funding for lab expenses.
-            {style="text-align: justify;"}
           icon: ''
           organization: Undergraduate Research Program, University of Washington
           organization_url: ''
@@ -179,7 +172,6 @@ sections:
           date_start: '2020-05-01'
           description: |-2
             Award issued by the University of Washington Center of Excellence in Neurobiology of Addiction, Pain, and Emotion funded by the NIH through a NIDA P30 Award providing training and financial support to motivated undergraduates interested in pursuing a career in research. Provides a research stipend and support for career development.
-            {style="text-align: justify;"}
           icon: ''
           organization: NAPE Center, University of Washington
           organization_url: ''
