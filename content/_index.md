@@ -205,7 +205,7 @@ sections:
       title: Recent Posts
       subtitle: ''
       text: |-
-      {{% callout warning %}}
+        {{% callout warning %}}
         As of April 2024, [funding for the BRAIN Initiative has been cut by 40%](https://braininitiative.nih.gov/news-events/blog/brain-director-funding-neuroscience-uncertain-budget-climate). This will be massively destructive to the progress of the entire field of neuroscience and the livelihood of researchers, their families, and patients. Research described in the following articles and much, much more would not have been possible without funding from the BRAIN Initiative. Please take the time to [reach](https://twitter.com/BIONIC_Lab/status/1779497706819318074) [out](https://twitter.com/doristsao/status/1783669451533242526) to your Senators and Representatives!([example template from Twitter here](https://twitter.com/BrainsExplained/status/1779582134115561603))
         {{% /callout %}}
       # Choose how many pages you would like to display (0 = all pages)
