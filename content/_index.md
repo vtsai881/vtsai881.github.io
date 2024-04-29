@@ -120,7 +120,7 @@ sections:
       items:
         - certificate_url: ''
           date_end: ''
-          date_start: '2024-04-01'
+          date_start: '2024-09-01'
           description: |-2
             Awarded to outstanding graduate students who have demonstrated the potential to be high achieving scientists early in their career. One of 2,000 awardees selected from a pool of 15,000+ applicants.
           icon: ''
@@ -285,7 +285,8 @@ sections:
       title: Contact
       subtitle:
       text: |-2
-        📬 Send me a message! Always happy to chat about science, writing, behavioral analysis tools, and potential opportunities or collaborations.
+        📬 Send me a message! Always happy to chat about science, writing, behavioral analysis tools, 
+        advice for grad school or undergrad research, and potential opportunities or collaborations.
         {style="text-align: justify;"}
       # Contact (add or remove contact options as necessary)
       email: vsctsai@stanford.edu
