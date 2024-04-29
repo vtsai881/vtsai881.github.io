@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Valerie Tsai is a Neuroscience PhD Student at Stanford University. Read about her research, writing, and more.'
-    twitter: '@val_tsais'
+    twitter: 'val_tsais'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -47,7 +47,7 @@ footer:
   copyright:
     notice: '© {year} Valerie S Tsai. This work is licensed under {license}'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
