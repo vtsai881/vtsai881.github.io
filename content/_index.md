@@ -151,7 +151,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2023-04-24'
-          description: Awarded to presenters who scored in the top 20% of all posters presented at the NIH Post-Baccalaureate Poster Day.
+          description: Awarded to presenters scoring in the top 20% of all posters presented at the NIH Post-Baccalaureate Poster Day.
           icon: ''
           organization: National Institutes of Health
           organization_url: ''
@@ -289,7 +289,7 @@ sections:
       subtitle:
       text: |-2
         📬 Send me a message! Always happy to chat about science, writing, behavioral analysis tools, 
-        advice for grad school or undergrad research, and potential opportunities or collaborations.
+        my grad school, postbac and undergrad research experiences, and potential opportunities or collaborations.
         {style="text-align: justify;"}
       # Contact (add or remove contact options as necessary)
       email: vsctsai@stanford.edu
