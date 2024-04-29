@@ -100,7 +100,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'vsctsai@stanford.edu'
+    link: 'mailto:vsctsai@stanford.edu'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/val_tsais

@@ -151,7 +151,7 @@ sections:
         - certificate_url: ''
           date_end: ''
           date_start: '2023-04-24'
-          description: Awarded to presenters who scored in the top 20% of all posters presented at the NIH Post-Baccalaureate Poster Day.
+          description: Awarded to presenters scoring in the top 20% of all posters presented at the NIH Post-Baccalaureate Poster Day.
           icon: ''
           organization: National Institutes of Health
           organization_url: ''
@@ -205,11 +205,11 @@ sections:
       title: Recent Posts
       subtitle: ''
       text: |-
-      {{% callout warning %}}
-        As of April 2024, [funding for the BRAIN Initiative has been cut by 40%](https://braininitiative.nih.gov/news-events/blog/brain-director-funding-neuroscience-uncertain-budget-climate). This will be massively destructive to the progress of the entire field of neuroscience and the livelihood of researchers, their families, and patients. Research described in the following articles and much, much more would not have been possible without funding from the BRAIN Initiative. Please take the time to [reach](https://twitter.com/BIONIC_Lab/status/1779497706819318074) [out](https://twitter.com/doristsao/status/1783669451533242526) to your Senators and Representatives!([example template from Twitter here](https://twitter.com/BrainsExplained/status/1779582134115561603))
+        {{% callout warning %}}
+        As of April 2024, [funding for the BRAIN Initiative has been cut by 40%](https://braininitiative.nih.gov/news-events/blog/brain-director-funding-neuroscience-uncertain-budget-climate). This will be massively destructive to the progress of the entire field of neuroscience and the livelihood of researchers, their families, and patients. Research described in the following articles and much, much more would not have been possible without funding from the BRAIN Initiative. Please take the time to [reach](https://twitter.com/BIONIC_Lab/status/1779497706819318074) [out](https://twitter.com/doristsao/status/1783669451533242526) to your Senators and Representatives ([example template from Twitter here](https://twitter.com/BrainsExplained/status/1779582134115561603)).
         {{% /callout %}}
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 3
       # Filter on criteria
       filters:
         folders:
@@ -289,7 +289,7 @@ sections:
       subtitle:
       text: |-2
         📬 Send me a message! Always happy to chat about science, writing, behavioral analysis tools, 
-        advice for grad school or undergrad research, and potential opportunities or collaborations.
+        my grad school, postbac and undergrad research experiences, and potential opportunities or collaborations.
         {style="text-align: justify;"}
       # Contact (add or remove contact options as necessary)
       email: vsctsai@stanford.edu
