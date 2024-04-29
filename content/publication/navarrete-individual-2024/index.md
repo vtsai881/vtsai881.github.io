@@ -20,13 +20,13 @@ publication_types:
 - article-journal
 publication: '*Biological Psychiatry*'
 doi: ""
-abstract: 'Background A key challenge in developing treatments for neuropsychiatric
+abstract: Background A key challenge in developing treatments for neuropsychiatric
   illness is the disconnect between preclinical models and the complexity of human
   social behavior. We integrate voluntary social self-administration into a rodent
   model of social stress as a platform for the identification of fundamental brain
   and behavior mechanisms underlying stress-induced individual differences in social
   motivation. Methods Here, we introduced an operant social stress procedure in male
-  and female mice composed of 3 phases: 1) social self-administration training, 2)
+  and female mice composed of 3 phases 1) social self-administration training, 2)
   social stress exposure concurrent with reinforced self-administration testing, and
   3) poststress operant testing under nonreinforced and reinforced conditions. We
   used social-defeat and witness-defeat stress in male and female mice. Results Social
@@ -42,12 +42,12 @@ abstract: 'Background A key challenge in developing treatments for neuropsychiat
   social stress can detect stable individual differences in stress-induced changes
   to social motivation. The inclusion of volitional behavior in social procedures
   may enhance the understanding of behavioral adaptations that promote stress resiliency
-  and their mechanisms under more naturalistic conditions.'
+  and their mechanisms under more naturalistic conditions.
+  {style="text-align: justify;"}
 tags:
-- Reward
-- Self-administration
-- Sex differences
-- Social
+- Motivation
+- Social Behavior
+- Sex Differences
 - Stress
 
 url_pdf: ''

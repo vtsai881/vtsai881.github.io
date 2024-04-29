@@ -60,7 +60,7 @@ skills:
         icon_pack: emoji
       - name: Python
         description: ''
-        percent: 80
+        percent: 85
         icon: 🐍
         icon_pack: emoji
       - name: Data Analysis
