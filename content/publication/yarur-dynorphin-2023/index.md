@@ -52,7 +52,6 @@ abstract: The medial prefrontal cortex (mPFC) controls behavior via connections 
   the utility of targeting the mPFC Dyn / KOR system as a means to treat neuropsychiatric
   disorders characterized by dysregulation in mPFC integration of long-range afferents
   with local inhibitory microcircuits.
-  {style="text-align: justify;"}
 tags:
 - Electrophysiology
 - Anatomy

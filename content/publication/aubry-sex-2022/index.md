@@ -36,7 +36,6 @@ abstract: Aggression is an evolutionarily conserved, adaptive component of socia
   sex differences in aggression in mice, providing an important resource for the field
   to better understand the circuit and molecular mechanisms of aggression in both
   sexes.
-  {style="text-align: justify;"}
 tags:
 - Motivation
 - Social Behavior

@@ -43,7 +43,6 @@ abstract: Background A key challenge in developing treatments for neuropsychiatr
   to social motivation. The inclusion of volitional behavior in social procedures
   may enhance the understanding of behavioral adaptations that promote stress resiliency
   and their mechanisms under more naturalistic conditions.
-  {style="text-align: justify;"}
 tags:
 - Motivation
 - Social Behavior
