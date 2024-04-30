@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Valerie S Tsai. This work is licensed under {license}'
+    notice: '© {year} Valerie S Tsai.'
     license:
       enable: false
       allow_derivatives: false
