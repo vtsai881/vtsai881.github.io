@@ -84,7 +84,7 @@ skills:
         icon_pack: emoji
       - name: Nature
         description: ''
-        percent: 90
+        percent: 85
         icon: 🌄
         icon_pack: emoji
       - name: Coffee
@@ -124,7 +124,7 @@ social:
 highlight_name: false
 ---
 
-Hi, I'm Valerie! I am an incoming Neuroscience PhD Student at Stanford University interested in using computational modeling and closed-loop optogenetics to define the structure of the circuits, systems, and motor sequences underlying social behavior.
+Hi, I'm Valerie! I am a Neuroscience PhD Student at Stanford University currently rotating in the labs of Professors Nirao Shah and Shaul Druckmann. I am interested in using computational modeling and closed-loop optogenetics to define the structure of the circuits, systems, and motor sequences underlying social behavior.
 {style="text-align: justify;"}
 
 I did my undergrad at the University of Washington, where I earned a Neuroscience BS and an English Minor. I conducted an honors thesis research project with Dr. Sam Golden where I used deep and machine learning to quantitatively phenotype the behavioral sequences and whole-brain cfos ensembles underlying maladaptive aggression. I was also Editor-in-Chief of [Grey Matters Journal](https://greymattersjournal.org/), a neuroscience outreach organization founded and run by undergraduate students aimed at fostering scientific engagement through community outreach, diversity and inclusivity initiatives, and effective scientific communication.
