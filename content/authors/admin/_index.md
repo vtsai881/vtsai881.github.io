@@ -29,8 +29,8 @@ bio: ''
 
 # Interests to show in About widget
 interests:
-  - Systems Neuroscience
   - Social Behavior
+  - Synaptic Connections
   - Machine Learning
 
 # Education to show in About widget
@@ -103,16 +103,13 @@ social:
     link: 'mailto:vsctsai@stanford.edu'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/val_tsais
+    link: https://bsky.app/profile/val-tsais.bsky.social
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: ai
     link: https://scholar.google.com/citations?user=72-Br0AAAAAJ&hl=en&authuser=2
   - icon: github
     icon_pack: fab
     link: https://github.com/vtsai881
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/valerie-tsai/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -124,7 +121,7 @@ social:
 highlight_name: false
 ---
 
-Hi, I'm Valerie! I am a first year Neuroscience PhD Student at Stanford University. I am interested in using computational modeling and closed-loop optogenetics to define the structure of the circuits, systems, and motor sequences underlying social behavior.
+Hi, I'm Valerie! I am a first year Neurosciences PhD Student at Stanford University. I am interested in understanding the neural and behavioral dynamics that structure social interaction, and how they become disrupted in neuropsychiatric conditions.
 {style="text-align: justify;"}
 
 I did my undergrad at the University of Washington, where I earned a Neuroscience BS and an English Minor. I conducted an honors thesis research project with Dr. Sam Golden where I used deep and machine learning to quantitatively phenotype the behavioral sequences and whole-brain cfos ensembles underlying maladaptive aggression. I was also Editor-in-Chief of [Grey Matters Journal](https://greymattersjournal.org/), a neuroscience outreach organization founded and run by undergraduate students aimed at fostering scientific engagement through community outreach, diversity and inclusivity initiatives, and effective scientific communication.
