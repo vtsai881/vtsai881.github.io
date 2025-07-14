@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Neuroscience PhD Student
+role: Neurosciences PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -121,7 +121,7 @@ social:
 highlight_name: false
 ---
 
-Hi, I'm Valerie! I am a first year Neurosciences PhD Student at Stanford University. I am interested in understanding the neural and behavioral dynamics that structure social interaction, and how they become disrupted in neuropsychiatric conditions.
+Hi, I'm Valerie! I am a Neurosciences PhD Student in the lab of Dr. Karl Deisseroth at Stanford University. I am interested in understanding the neural and behavioral dynamics that structure social interaction, and how they become disrupted in neuropsychiatric conditions.
 {style="text-align: justify;"}
 
 I did my undergrad at the University of Washington, where I earned a Neuroscience BS and an English Minor. I conducted an honors thesis research project with Dr. Sam Golden where I used deep and machine learning to quantitatively phenotype the behavioral sequences and whole-brain cfos ensembles underlying maladaptive aggression. I was also Editor-in-Chief of [Grey Matters Journal](https://greymattersjournal.org/), a neuroscience outreach organization founded and run by undergraduate students aimed at fostering scientific engagement through community outreach, diversity and inclusivity initiatives, and effective scientific communication.
