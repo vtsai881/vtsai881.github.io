@@ -39,7 +39,7 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About Me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: skills
@@ -52,7 +52,7 @@ sections:
       columns: '1'
   - block: experience
     content:
-      title: Experience
+      title: Research Experience
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
