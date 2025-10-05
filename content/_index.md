@@ -62,14 +62,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Neuroscience PhD Student
+        - title: Neurosciences PhD Student
           company: Stanford University
           company_url: ''
           company_logo: ''
           location: California
           date_start: '2024-09-23'
           date_end: ''
-          description: ''
+          description: |-2
+            Thesis work coming soon... 
+            **Advisor: Karl Deisseroth**
         - title: IRTA Post-Baccalaureate Research Fellow
           company: Unit on Neuromodulation and Synaptic Integration, NIMH
           company_url: ''
@@ -206,7 +208,7 @@ sections:
       subtitle: ''
       text: |-
         {{% callout warning %}}
-        As of April 2024, [funding for the BRAIN Initiative has been cut by 40%](https://braininitiative.nih.gov/news-events/blog/brain-director-funding-neuroscience-uncertain-budget-climate). This will be massively destructive to the progress of the entire field of neuroscience and the livelihood of researchers, their families, and patients. Research described in the following articles and much, much more would not have been possible without funding from the BRAIN Initiative. Please take the time to [reach](https://twitter.com/BIONIC_Lab/status/1779497706819318074) [out](https://twitter.com/doristsao/status/1783669451533242526) to your Senators and Representatives ([example template from Twitter here](https://twitter.com/BrainsExplained/status/1779582134115561603)).
+        As of [early 2025](https://x.com/NIH/status/1888004759396958263), institutional research funding has been [cut](https://theconversation.com/proposed-cuts-to-nih-funding-would-have-ripple-effects-on-research-that-could-hamper-the-us-for-decades-262419) [ dramatically](https://www.nature.com/articles/s41591-025-03994-z). This already is and will continue be massively destructive to the progress of science as a whole, and the livelihood of researchers, their families, and patient participants hoping to discover cures. Research described in the following articles and the research I have conducted in the past, as well as what I conduct now would not have been possible without research funding from the government. Please take the time to reach [out](https://twitter.com/doristsao/status/1783669451533242526) to your Senators and Representatives ([example template from Twitter here](https://twitter.com/BrainsExplained/status/1779582134115561603)).
         {{% /callout %}}
       # Choose how many pages you would like to display (0 = all pages)
       count: 3

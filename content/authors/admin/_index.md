@@ -29,8 +29,8 @@ bio: ''
 
 # Interests to show in About widget
 interests:
-  - Social Behavior
-  - Synaptic Connections
+  - Social Interaction
+  - Autism
   - Machine Learning
 
 # Education to show in About widget
@@ -79,7 +79,7 @@ skills:
         icon_pack: emoji
       - name: Reading
         description: ''
-        percent: 95
+        percent: 98
         icon: 📚
         icon_pack: emoji
       - name: Nature
@@ -121,7 +121,7 @@ social:
 highlight_name: false
 ---
 
-Hi, I'm Valerie! I am a Neurosciences PhD Student in the lab of Dr. Karl Deisseroth at Stanford University. I am interested in understanding the neural and behavioral dynamics that structure social interaction, and how they become disrupted in neuropsychiatric conditions.
+Hi, I'm Valerie! I am a Neurosciences PhD Student in the lab of Dr. Karl Deisseroth at Stanford University. I am interested in understanding the neural and behavioral dynamics that structure social interaction, and how they become disrupted in neuropsychiatric conditions like autism.
 {style="text-align: justify;"}
 
 I did my undergrad at the University of Washington, where I earned a Neuroscience BS and an English Minor. I conducted an honors thesis research project with Dr. Sam Golden where I used deep and machine learning to quantitatively phenotype the behavioral sequences and whole-brain cfos ensembles underlying maladaptive aggression. I was also Editor-in-Chief of [Grey Matters Journal](https://greymattersjournal.org/), a neuroscience outreach organization founded and run by undergraduate students aimed at fostering scientific engagement through community outreach, diversity and inclusivity initiatives, and effective scientific communication.
