@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Neurosciences PhD Student
-          company: Stanford University
+          company: Deisseroth Lab, Stanford University
           company_url: ''
           company_logo: ''
           location: California
@@ -71,6 +71,7 @@ sections:
           date_end: ''
           description: |-2
             Thesis work coming soon... 
+
             **Advisor: Karl Deisseroth**
         - title: IRTA Post-Baccalaureate Research Fellow
           company: Unit on Neuromodulation and Synaptic Integration, NIMH
@@ -275,7 +276,7 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Looking for a specific paper? See all publications [here](./publication/).
+        Looking for a specific paper? See all publications [here](./publication/) or on my [Google Scholar](https://scholar.google.com/citations?user=72-Br0AAAAAJ&hl=en).
         {{% /callout %}}
       filters:
         folders:
@@ -291,7 +292,7 @@ sections:
       subtitle:
       text: |-2
         📬 Send me a message! Always happy to chat about science, writing, behavioral analysis tools, 
-        my grad school, postbac and undergrad research experiences, and potential opportunities or collaborations.
+        my grad school, postbac, and undergrad research experiences, and potential opportunities or collaborations :smiling_face:
         {style="text-align: justify;"}
       # Contact (add or remove contact options as necessary)
       email: vsctsai@stanford.edu
